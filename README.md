@@ -8,3 +8,9 @@ This repository is created for my ICT week course. I am learning GitHub, reposit
 
 ## My Goal
 My goal is to improve my technical and collaboration skills.
+
+## Topics I Am Learning
+- Virtulization
+- Cloud computing
+- Version control
+- Collaboration
